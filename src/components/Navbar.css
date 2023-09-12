@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz@8..144&display=swap');
+
+.navbar {
+    background-color: rgb(6, 6, 5);
+    /* width: 100%; */
+    /* height: 80px; */
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+    align-items: center;
+}
+.navbar-brand {
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    font-family: 'Roboto Serif', serif;
+}
+.nav-link {
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+}
